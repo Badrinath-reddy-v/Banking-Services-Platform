@@ -44,12 +44,12 @@ SOFTWARE REQUIREMENTS:
 **Demo Images**
 
 
-<img src="Cashier.png" width="500" height="500">
+<img src="Output Snapshots/Cashier.png" width="500" height="500">
 
-<img src="Home.png" width="500" height="500">
+<img src="Output Snapshots/Home.png" width="500" height="500">
 
-<img src="Account.png" width="500" height="500">
+<img src="Output Snapshots/Account.png" width="500" height="500">
 
-<img src="Manager.png" width="500" height="500">
+<img src="Output Snapshots/Manager.png" width="500" height="500">
 
-<img src="Php.png" width="500" height="500">
+<img src="Output Snapshots/Php.png" width="500" height="500">
